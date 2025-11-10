@@ -1,0 +1,5 @@
+/.venv
+__pycache__
+*.pem
+.DS_Store
+src/test_index.html
