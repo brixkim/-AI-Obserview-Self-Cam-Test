@@ -34,6 +34,7 @@ uvicorn server:app \
   --ssl-certfile <CERT_PATH.pem> \
   --ssl-keyfile  <KEY_PATH.pem>
 ```
+`Ctrl+C`를 눌러 서버를 종료할 수 있습니다.
 
 ### 4. Web 예시
 ![web example](/assets/images/example_web.png)<br/>
